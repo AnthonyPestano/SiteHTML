@@ -1,0 +1,9 @@
+@import url('./geral.css');
+.formulario{
+    background-color: aliceblue;
+}
+input[type=radio] {
+    border: 0px;
+    width: 7%;
+    height:1.8rem;
+}
