@@ -133,7 +133,7 @@ footer a{
 }
 .p2{
   display: inline;
-  font-size: 18px;
+  font-size: 15px;
   margin: 10px;
   background-color: var(--cor-principal);
   border-radius:5px;
@@ -279,7 +279,7 @@ header {
 }
 .p2{
   display: inline-block;
-  font-size: 17px;
+  font-size: 15px;
   margin: 10px;
   background-color: var(--cor-principal);
   border-radius:5px;
@@ -426,7 +426,7 @@ font-style: normal;
   }
   .p2{
     display: inline;
-    font-size: 25px;
+    font-size: 20px;
     margin: 10px;
     background-color: var(--cor-principal);
     border-radius:5px;
