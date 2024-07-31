@@ -2,8 +2,26 @@
 .formulario{
     background-color: aliceblue;
 }
+/*telas pequenas*/
 input[type=radio] {
     border: 0px;
     width: 7%;
-    height:1.8rem;
+    height:15px;
 }
+  /* telas medias*/ 
+  @media (min-width: 720px) {
+    input[type=radio] {
+        border: 0px;
+        width: 7%;
+        height:25px;
+    }
+  }
+
+  /*telas grandes*/
+  @media (min-width: 1050px) {
+    input[type=radio] {
+        border: 0px;
+        width: 7%;
+        height:25px;
+    }
+  }
